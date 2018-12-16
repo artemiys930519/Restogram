@@ -1,10 +1,12 @@
 package app.model;
 
 
+
 public class Restaurant {
 
     private Integer id;
     private String name;
+
 
     public Restaurant() {
     }

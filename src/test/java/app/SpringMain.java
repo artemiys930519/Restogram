@@ -1,7 +1,7 @@
 package app;
 
 import app.model.Restaurant;
-import app.repository.JdbcRestaurantRepository;
+import app.repository.jdbc.JdbcRestaurantRepository;
 import org.springframework.context.support.GenericXmlApplicationContext;
 
 public class SpringMain {

@@ -1,6 +1,7 @@
-package app.repository;
+package app.repository.jdbc;
 
 import app.model.Restaurant;
+import app.repository.RestaurantRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.dao.support.DataAccessUtils;
 import org.springframework.jdbc.core.BeanPropertyRowMapper;
